@@ -1,0 +1,10 @@
+{
+  "name": "marketboard",
+  "version": "1.0.0",
+  "description": "Stock market dashboard with a small live-data server",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
